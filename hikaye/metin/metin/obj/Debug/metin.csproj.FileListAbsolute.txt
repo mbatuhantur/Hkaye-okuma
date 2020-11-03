@@ -1,0 +1,27 @@
+c:\users\hasan\documents\visual studio 2013\Projects\metin\metin\bin\Debug\metin.exe.config
+c:\users\hasan\documents\visual studio 2013\Projects\metin\metin\bin\Debug\metin.exe
+c:\users\hasan\documents\visual studio 2013\Projects\metin\metin\bin\Debug\metin.pdb
+c:\users\hasan\documents\visual studio 2013\Projects\metin\metin\obj\Debug\metin.Form1.resources
+c:\users\hasan\documents\visual studio 2013\Projects\metin\metin\obj\Debug\metin.Properties.Resources.resources
+c:\users\hasan\documents\visual studio 2013\Projects\metin\metin\obj\Debug\metin.csproj.GenerateResource.Cache
+c:\users\hasan\documents\visual studio 2013\Projects\metin\metin\obj\Debug\metin.exe
+c:\users\hasan\documents\visual studio 2013\Projects\metin\metin\obj\Debug\metin.pdb
+c:\users\hasan\documents\visual studio 2013\Projects\metin\metin\obj\Debug\metin.csprojResolveAssemblyReference.cache
+C:\Users\WINDOWS\Desktop\hikaye\metin\metin\bin\Debug\metin.exe.config
+C:\Users\WINDOWS\Desktop\hikaye\metin\metin\obj\Debug\metin.exe
+C:\Users\WINDOWS\Desktop\hikaye\metin\metin\obj\Debug\metin.pdb
+C:\Users\WINDOWS\Desktop\hikaye\metin\metin\obj\Debug\metin.csprojResolveAssemblyReference.cache
+C:\Users\WINDOWS\Desktop\hikaye\metin\metin\obj\Debug\metin.Form1.resources
+C:\Users\WINDOWS\Desktop\hikaye\metin\metin\obj\Debug\metin.Properties.Resources.resources
+C:\Users\WINDOWS\Desktop\hikaye\metin\metin\obj\Debug\metin.csproj.GenerateResource.Cache
+C:\Users\WINDOWS\Desktop\hikaye\metin\metin\bin\Debug\metin.exe
+C:\Users\WINDOWS\Desktop\hikaye\metin\metin\bin\Debug\metin.pdb
+C:\Users\BATUHAN\Desktop\hikaye\metin\metin\bin\Debug\metin.exe.config
+C:\Users\BATUHAN\Desktop\hikaye\metin\metin\obj\Debug\metin.exe
+C:\Users\BATUHAN\Desktop\hikaye\metin\metin\obj\Debug\metin.pdb
+C:\Users\BATUHAN\Desktop\hikaye\metin\metin\bin\Debug\metin.exe
+C:\Users\BATUHAN\Desktop\hikaye\metin\metin\bin\Debug\metin.pdb
+C:\Users\BATUHAN\Desktop\hikaye\metin\metin\obj\Debug\metin.csprojResolveAssemblyReference.cache
+C:\Users\BATUHAN\Desktop\hikaye\metin\metin\obj\Debug\metin.Form1.resources
+C:\Users\BATUHAN\Desktop\hikaye\metin\metin\obj\Debug\metin.Properties.Resources.resources
+C:\Users\BATUHAN\Desktop\hikaye\metin\metin\obj\Debug\metin.csproj.GenerateResource.Cache
